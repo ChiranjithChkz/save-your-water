@@ -1,0 +1,13 @@
+.bottle-card {
+
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.card-bottle {
+    border: 2px solid teal;
+   
+    border-radius: 20px;
+    padding: 10px;
+}
